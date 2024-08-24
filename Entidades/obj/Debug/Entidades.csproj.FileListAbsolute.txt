@@ -1,0 +1,12 @@
+C:\Users\ivan ferreyra\Desktop\TPINT_GRUPO_2_PR3_V33\TPINT_GRUPO_2_PR3_V32\Entidades\bin\Debug\Entidades.dll
+C:\Users\ivan ferreyra\Desktop\TPINT_GRUPO_2_PR3_V33\TPINT_GRUPO_2_PR3_V32\Entidades\bin\Debug\Entidades.pdb
+C:\Users\ivan ferreyra\Desktop\TPINT_GRUPO_2_PR3_V33\TPINT_GRUPO_2_PR3_V32\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\ivan ferreyra\Desktop\TPINT_GRUPO_2_PR3_V33\TPINT_GRUPO_2_PR3_V32\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\ivan ferreyra\Desktop\TPINT_GRUPO_2_PR3_V33\TPINT_GRUPO_2_PR3_V32\Entidades\obj\Debug\Entidades.dll
+C:\Users\ivan ferreyra\Desktop\TPINT_GRUPO_2_PR3_V33\TPINT_GRUPO_2_PR3_V32\Entidades\obj\Debug\Entidades.pdb
+A:\programacion\c++\lab 3\GIAN2\Entidades\bin\Debug\Entidades.dll
+A:\programacion\c++\lab 3\GIAN2\Entidades\bin\Debug\Entidades.pdb
+A:\programacion\c++\lab 3\GIAN2\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+A:\programacion\c++\lab 3\GIAN2\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+A:\programacion\c++\lab 3\GIAN2\Entidades\obj\Debug\Entidades.dll
+A:\programacion\c++\lab 3\GIAN2\Entidades\obj\Debug\Entidades.pdb

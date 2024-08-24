@@ -1,0 +1,99 @@
+C:\Users\ivan ferreyra\Desktop\TPINT_GRUPO_2_PR3_V33\TPINT_GRUPO_2_PR3_V32\Negocio\bin\Debug\Negocio.dll
+C:\Users\ivan ferreyra\Desktop\TPINT_GRUPO_2_PR3_V33\TPINT_GRUPO_2_PR3_V32\Negocio\bin\Debug\Negocio.pdb
+C:\Users\ivan ferreyra\Desktop\TPINT_GRUPO_2_PR3_V33\TPINT_GRUPO_2_PR3_V32\Negocio\bin\Debug\Datos.dll
+C:\Users\ivan ferreyra\Desktop\TPINT_GRUPO_2_PR3_V33\TPINT_GRUPO_2_PR3_V32\Negocio\bin\Debug\Entidades.dll
+C:\Users\ivan ferreyra\Desktop\TPINT_GRUPO_2_PR3_V33\TPINT_GRUPO_2_PR3_V32\Negocio\bin\Debug\Datos.pdb
+C:\Users\ivan ferreyra\Desktop\TPINT_GRUPO_2_PR3_V33\TPINT_GRUPO_2_PR3_V32\Negocio\bin\Debug\Entidades.pdb
+C:\Users\ivan ferreyra\Desktop\TPINT_GRUPO_2_PR3_V33\TPINT_GRUPO_2_PR3_V32\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\ivan ferreyra\Desktop\TPINT_GRUPO_2_PR3_V33\TPINT_GRUPO_2_PR3_V32\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\ivan ferreyra\Desktop\TPINT_GRUPO_2_PR3_V33\TPINT_GRUPO_2_PR3_V32\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\ivan ferreyra\Desktop\TPINT_GRUPO_2_PR3_V33\TPINT_GRUPO_2_PR3_V32\Negocio\obj\Debug\Negocio.dll
+C:\Users\ivan ferreyra\Desktop\TPINT_GRUPO_2_PR3_V33\TPINT_GRUPO_2_PR3_V32\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Giani\Desktop\TPINT_GRUPO_2_PR3_V39\TPINT_GRUPO_2_PR3_V32\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Giani\Desktop\TPINT_GRUPO_2_PR3_V39\TPINT_GRUPO_2_PR3_V32\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Giani\Desktop\TPINT_GRUPO_2_PR3_V39\TPINT_GRUPO_2_PR3_V32\Negocio\obj\Debug\Negocio.dll
+C:\Users\Giani\Desktop\TPINT_GRUPO_2_PR3_V39\TPINT_GRUPO_2_PR3_V32\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Giani\Desktop\TPINT_GRUPO_2_PR3_V39\TPINT_GRUPO_2_PR3_V32\Negocio\bin\Debug\Negocio.dll
+C:\Users\Giani\Desktop\TPINT_GRUPO_2_PR3_V39\TPINT_GRUPO_2_PR3_V32\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Giani\Desktop\TPINT_GRUPO_2_PR3_V39\TPINT_GRUPO_2_PR3_V32\Negocio\bin\Debug\Datos.dll
+C:\Users\Giani\Desktop\TPINT_GRUPO_2_PR3_V39\TPINT_GRUPO_2_PR3_V32\Negocio\bin\Debug\Entidades.dll
+C:\Users\Giani\Desktop\TPINT_GRUPO_2_PR3_V39\TPINT_GRUPO_2_PR3_V32\Negocio\bin\Debug\Datos.pdb
+C:\Users\Giani\Desktop\TPINT_GRUPO_2_PR3_V39\TPINT_GRUPO_2_PR3_V32\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Giani\Desktop\TPINT_GRUPO_2_PR3_V39\TPINT_GRUPO_2_PR3_V32\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Giani\Desktop\TPINT_GRUPO_2_PR3_V40\Negocio\bin\Debug\Negocio.dll
+C:\Users\Giani\Desktop\TPINT_GRUPO_2_PR3_V40\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Giani\Desktop\TPINT_GRUPO_2_PR3_V40\Negocio\bin\Debug\Datos.dll
+C:\Users\Giani\Desktop\TPINT_GRUPO_2_PR3_V40\Negocio\bin\Debug\Entidades.dll
+C:\Users\Giani\Desktop\TPINT_GRUPO_2_PR3_V40\Negocio\bin\Debug\Datos.pdb
+C:\Users\Giani\Desktop\TPINT_GRUPO_2_PR3_V40\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Giani\Desktop\TPINT_GRUPO_2_PR3_V40\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Giani\Desktop\TPINT_GRUPO_2_PR3_V40\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Giani\Desktop\TPINT_GRUPO_2_PR3_V40\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Giani\Desktop\TPINT_GRUPO_2_PR3_V40\Negocio\obj\Debug\Negocio.dll
+C:\Users\Giani\Desktop\TPINT_GRUPO_2_PR3_V40\Negocio\obj\Debug\Negocio.pdb
+C:\Users\ivan ferreyra\Desktop\Nueva carpeta\Negocio\bin\Debug\Negocio.dll
+C:\Users\ivan ferreyra\Desktop\Nueva carpeta\Negocio\bin\Debug\Negocio.pdb
+C:\Users\ivan ferreyra\Desktop\Nueva carpeta\Negocio\bin\Debug\Datos.dll
+C:\Users\ivan ferreyra\Desktop\Nueva carpeta\Negocio\bin\Debug\Entidades.dll
+C:\Users\ivan ferreyra\Desktop\Nueva carpeta\Negocio\bin\Debug\Datos.pdb
+C:\Users\ivan ferreyra\Desktop\Nueva carpeta\Negocio\bin\Debug\Entidades.pdb
+C:\Users\ivan ferreyra\Desktop\Nueva carpeta\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\ivan ferreyra\Desktop\Nueva carpeta\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\ivan ferreyra\Desktop\Nueva carpeta\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\ivan ferreyra\Desktop\Nueva carpeta\Negocio\obj\Debug\Negocio.dll
+C:\Users\ivan ferreyra\Desktop\Nueva carpeta\Negocio\obj\Debug\Negocio.pdb
+C:\Users\ivan ferreyra\Desktop\v47\Negocio\bin\Debug\Negocio.dll
+C:\Users\ivan ferreyra\Desktop\v47\Negocio\bin\Debug\Negocio.pdb
+C:\Users\ivan ferreyra\Desktop\v47\Negocio\bin\Debug\Datos.dll
+C:\Users\ivan ferreyra\Desktop\v47\Negocio\bin\Debug\Entidades.dll
+C:\Users\ivan ferreyra\Desktop\v47\Negocio\bin\Debug\Datos.pdb
+C:\Users\ivan ferreyra\Desktop\v47\Negocio\bin\Debug\Entidades.pdb
+C:\Users\ivan ferreyra\Desktop\v47\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\ivan ferreyra\Desktop\v47\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\ivan ferreyra\Desktop\v47\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\ivan ferreyra\Desktop\v47\Negocio\obj\Debug\Negocio.dll
+C:\Users\ivan ferreyra\Desktop\v47\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Giani\Desktop\Megamix Porongol\Negocio\bin\Debug\Negocio.dll
+C:\Users\Giani\Desktop\Megamix Porongol\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Giani\Desktop\Megamix Porongol\Negocio\bin\Debug\Datos.dll
+C:\Users\Giani\Desktop\Megamix Porongol\Negocio\bin\Debug\Entidades.dll
+C:\Users\Giani\Desktop\Megamix Porongol\Negocio\bin\Debug\Datos.pdb
+C:\Users\Giani\Desktop\Megamix Porongol\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Giani\Desktop\Megamix Porongol\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Giani\Desktop\Megamix Porongol\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Giani\Desktop\Megamix Porongol\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Giani\Desktop\Megamix Porongol\Negocio\obj\Debug\Negocio.dll
+C:\Users\Giani\Desktop\Megamix Porongol\Negocio\obj\Debug\Negocio.pdb
+A:\programacion\c++\lab 3\GIAN2\Negocio\bin\Debug\Negocio.dll
+A:\programacion\c++\lab 3\GIAN2\Negocio\bin\Debug\Negocio.pdb
+A:\programacion\c++\lab 3\GIAN2\Negocio\bin\Debug\Datos.dll
+A:\programacion\c++\lab 3\GIAN2\Negocio\bin\Debug\Entidades.dll
+A:\programacion\c++\lab 3\GIAN2\Negocio\bin\Debug\Datos.pdb
+A:\programacion\c++\lab 3\GIAN2\Negocio\bin\Debug\Entidades.pdb
+A:\programacion\c++\lab 3\GIAN2\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+A:\programacion\c++\lab 3\GIAN2\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+A:\programacion\c++\lab 3\GIAN2\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+A:\programacion\c++\lab 3\GIAN2\Negocio\obj\Debug\Negocio.dll
+A:\programacion\c++\lab 3\GIAN2\Negocio\obj\Debug\Negocio.pdb
+C:\Users\ivan ferreyra\Desktop\GIAN2\Negocio\bin\Debug\Negocio.dll
+C:\Users\ivan ferreyra\Desktop\GIAN2\Negocio\bin\Debug\Negocio.pdb
+C:\Users\ivan ferreyra\Desktop\GIAN2\Negocio\bin\Debug\Datos.dll
+C:\Users\ivan ferreyra\Desktop\GIAN2\Negocio\bin\Debug\Entidades.dll
+C:\Users\ivan ferreyra\Desktop\GIAN2\Negocio\bin\Debug\Datos.pdb
+C:\Users\ivan ferreyra\Desktop\GIAN2\Negocio\bin\Debug\Entidades.pdb
+C:\Users\ivan ferreyra\Desktop\GIAN2\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\ivan ferreyra\Desktop\GIAN2\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\ivan ferreyra\Desktop\GIAN2\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\ivan ferreyra\Desktop\GIAN2\Negocio\obj\Debug\Negocio.dll
+C:\Users\ivan ferreyra\Desktop\GIAN2\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Giani\Desktop\TPINT_GRUPO_2_PR3\TPINT_GRUPO_2_PR3\Negocio\bin\Debug\Negocio.dll
+C:\Users\Giani\Desktop\TPINT_GRUPO_2_PR3\TPINT_GRUPO_2_PR3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Giani\Desktop\TPINT_GRUPO_2_PR3\TPINT_GRUPO_2_PR3\Negocio\bin\Debug\Datos.dll
+C:\Users\Giani\Desktop\TPINT_GRUPO_2_PR3\TPINT_GRUPO_2_PR3\Negocio\bin\Debug\Entidades.dll
+C:\Users\Giani\Desktop\TPINT_GRUPO_2_PR3\TPINT_GRUPO_2_PR3\Negocio\bin\Debug\Datos.pdb
+C:\Users\Giani\Desktop\TPINT_GRUPO_2_PR3\TPINT_GRUPO_2_PR3\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Giani\Desktop\TPINT_GRUPO_2_PR3\TPINT_GRUPO_2_PR3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Giani\Desktop\TPINT_GRUPO_2_PR3\TPINT_GRUPO_2_PR3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Giani\Desktop\TPINT_GRUPO_2_PR3\TPINT_GRUPO_2_PR3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Giani\Desktop\TPINT_GRUPO_2_PR3\TPINT_GRUPO_2_PR3\Negocio\obj\Debug\Negocio.dll
+C:\Users\Giani\Desktop\TPINT_GRUPO_2_PR3\TPINT_GRUPO_2_PR3\Negocio\obj\Debug\Negocio.pdb
